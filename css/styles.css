@@ -1,14 +1,20 @@
 h1{
 	  color: green;
 		font-size: 30;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 300%;
+
 }
 
-body {
-  background-color: lightblue
+body {text-align: center;
+  background-color: lightblue;
 }
 
 p {
 	 font-style: oblique;
 	 font-family: monospace;
 	 text-align: center;
+   font-size: 150%;
+
 }
