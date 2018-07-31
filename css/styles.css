@@ -3,6 +3,7 @@ h1{
   text-align: center;
   font-family: sans-serif;
   color: white;
+
 }
 
 h2{
@@ -130,9 +131,8 @@ body {
 
 h1 {
 	position: absolute;
-	top: 10px;
+	top: 0px;
 	left: 10px;
-	z-index: 50;
 	font-size: 40px;
 }
 h2 {
@@ -147,7 +147,7 @@ h2 span {
 }
 h1, h2 {
 	color: #fff;
-	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135; 0px 10px 0px #333;
 }
 div {
 	position: relative;
